@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "random_forests"
+version = "1.0.0"
+description = "ICCS Random Forests workshop."
+authors = [
+  { name="Robert Edwin Rouse", email="rer44@cam.ac.uk"},
+]
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.9.10"
+classifiers = [
+    "Natural Language :: English",
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+dependencies = [
+    "palmerpenguins>=0.1.4",
+    "numpy",
+    "pandas",
+    "notebook",
+    "scikit-learn",
+    "matplotlib",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Cambridge-ICCS/RandomForests_SummerSchool25"
+"Bug Tracker" = "https://github.com/Cambridge-ICCS/RandomForests_SummerSchool25/issues"
+
+[tool.setuptools]
+package-dir = {}
