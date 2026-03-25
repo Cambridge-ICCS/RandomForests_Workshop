@@ -46,7 +46,7 @@ The slides for this workshop can be found in the [slides](slides/) directory.
 
 ### Exercises
 The exercises for the course can be found in the [exercises](exercises/) directory.  
-These take the form of \<partially completed jupyter notebooks/downloadable code/online.\>.
+These take the form of partially complete jupyter notebooks.
 
 ### Worked Solutions
 Worked solutions for all of the exercises can be found in the [worked solutions](worked-solutions/) directory.  
