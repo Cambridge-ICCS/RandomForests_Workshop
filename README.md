@@ -127,7 +127,7 @@ git clone https://github.com/Cambridge-ICCS/RandomForests_SummerSchool25.git
 This will create a directory `RandomForests_SummerSchool25/` with the contents of this repository.
 
 Please note that if you have a GitHub account and want to preserve any work you do
-we suggest you first [fork the repository](https://github.com/Cambridge-ICCS/RandomForests_SummerSchool25/fork) 
+we suggest you first [fork the repository](https://github.com/Cambridge-ICCS/RandomForests_Workshop/fork) 
 and then clone your fork.
 This will allow you to push your changes and progress from the workshop back up to your
 fork for future reference.
@@ -207,16 +207,16 @@ The teaching materials are licensed under a
 ## Contribution Guidelines and Support
 
 If you spot an issue with the materials please let us know by
-[opening an issue](https://github.com/Cambridge-ICCS/RandomForests_SummerSchool25/issues)
+[opening an issue](https://github.com/Cambridge-ICCS/RandomForests_Workshop/issues)
 here on GitHub clearly describing the problem.
 
 If you are able to fix an issue that you spot, or an
-[existing open issue](https://github.com/Cambridge-ICCS/RandomForests_SummerSchool25/issues)
+[existing open issue](https://github.com/Cambridge-ICCS/RandomForests_Workshop/issues)
 please get in touch by commenting on the issue thread.
 
 Contributions from the community are welcome.
 To contribute back to the repository please first
-[fork it](https://github.com/Cambridge-ICCS/RandomForests_SummerSchool25/fork),
+[fork it](https://github.com/Cambridge-ICCS/RandomForests_Workshop/fork),
 make the necessary changes to fix the problem, and then open a pull request back to
 this repository clearly describing the changes you have made.
 We will then preform a review and merge once ready.
