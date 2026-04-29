@@ -1,6 +1,6 @@
 <img src="./images/UCAM_ICCS_Logo.png"  width="600">
 
-# \<Random Forests\>
+# Random Forests
 
 This repository contains documentation, resources, and code for the `Random Forests` session
 designed and delivered by Dr. Robert Edwin Rouse of [ICCS](https://github.com/Cambridge-ICCS).  
