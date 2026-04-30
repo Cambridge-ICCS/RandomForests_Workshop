@@ -1,0 +1,17 @@
+{
+  "name": "ICCS Codespace",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "features": {},
+  "postCreateCommand": "pip install -r requirements.txt && python -m ipykernel install --user --name=codespace-env --display-name 'ICCS Codespace'",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "python.pythonPath": "/usr/local/bin/python"
+      },
+      "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+      ]
+    }
+  }
+}
